@@ -1,0 +1,698 @@
+# depslib dependency file v1.0
+1590259517 source:c:\users\usuario\desktop\reintengo abm\validaciones\validarrangonumerico.c
+	"validarRangoNumerico.h"
+
+1590258899 c:\users\usuario\desktop\reintengo abm\validaciones\validarrangonumerico.h
+
+1590264312 source:c:\users\usuario\desktop\reintengo abm\validaciones.c
+	"validaciones.h"
+
+1590264306 c:\users\usuario\desktop\reintengo abm\validaciones.h
+
+1590347781 source:c:\users\usuario\desktop\reintengo abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"dataWereHouse.h"
+
+1590347962 c:\users\usuario\desktop\reintengo abm\datawerehouse.h
+
+1590264312 source:c:\users\usuario\desktop\reintengo abm - copia\validaciones.c
+	"validaciones.h"
+
+1590264306 c:\users\usuario\desktop\reintengo abm - copia\validaciones.h
+
+1590441761 source:c:\users\usuario\desktop\reintengo abm - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"dataWereHouse.h"
+
+1590439513 c:\users\usuario\desktop\reintengo abm - copia\datawerehouse.h
+
+1590437242 source:c:\users\usuario\desktop\reintengo abm - copia\color.c
+	"color.h"
+
+1590437033 c:\users\usuario\desktop\reintengo abm - copia\color.h
+
+1590437242 source:c:\users\usuario\desktop\reintengo abm - copia\tipo.c
+	"tipo.h"
+
+1590437242 c:\users\usuario\desktop\reintengo abm - copia\tipo.h
+
+1590437418 source:c:\users\usuario\desktop\reintengo abm - copia\servicio.c
+	"servicio.h"
+
+1590437418 c:\users\usuario\desktop\reintengo abm - copia\servicio.h
+
+1590439923 source:c:\users\usuario\desktop\reintengo abm - copia\cliente.c
+	"cliente.h"
+
+1590439923 c:\users\usuario\desktop\reintengo abm - copia\cliente.h
+
+1590440593 c:\users\usuario\desktop\reintengo abm - copia\mascota.h
+
+1590441370 source:c:\users\usuario\desktop\reintengo abm - copia\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+
+1590442069 c:\users\usuario\desktop\reintengo abm - copia\trabajo.h
+	"fecha.h"
+
+1590442025 source:c:\users\usuario\desktop\reintengo abm - copia\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+	"servicio.h"
+	"fecha.h"
+	"trabajo.h"
+
+1590442025 c:\users\usuario\desktop\reintengo abm - copia\fecha.h
+
+1590442042 source:c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"dataWereHouse.h"
+
+1590264308 c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\validaciones.h
+
+1590437034 c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\color.h
+
+1590437244 c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\tipo.h
+
+1590437420 c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\servicio.h
+
+1590439924 c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\cliente.h
+
+1590440594 c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\mascota.h
+
+1590442070 c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\trabajo.h
+	"fecha.h"
+
+1590442026 c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\fecha.h
+
+1590439514 c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\datawerehouse.h
+
+1590264314 source:c:\users\usuario\desktop\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\validaciones.c
+	"validaciones.h"
+
+1593026749 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+	"dataWereHouse.h"
+
+1592935374 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\validaciones.h
+
+1592864848 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\color.h
+
+1592878406 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\tipo.h
+
+1592945055 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\servicio.h
+
+1592864848 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\cliente.h
+
+1593026749 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\mascota.h
+
+1593015842 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\trabajo.h
+	"fecha.h"
+
+1590442026 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\fecha.h
+
+1593022586 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\datawerehouse.h
+
+1592937663 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592937538 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\cliente.c
+	"cliente.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592937692 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1593014788 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+
+1592945055 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\servicio.c
+	"servicio.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592937663 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1593015888 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+	"servicio.h"
+	"fecha.h"
+	"trabajo.h"
+
+1592775618 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+
+1592775618 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\utn.h
+
+1593026269 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+
+1593027827 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\lenguaje c\reintentoss parcial abm\con cliente\reintengo abm - 5 cliente fragmentado completo\informes.h
+
+1592937538 source:c:\users\usuario\desktop\recuperatorio  partcial 1\cliente.c
+	"cliente.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592864848 c:\users\usuario\desktop\recuperatorio  partcial 1\cliente.h
+
+1594003867 c:\users\usuario\desktop\recuperatorio  partcial 1\validaciones.h
+
+1594045642 source:c:\users\usuario\desktop\recuperatorio  partcial 1\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1592864848 c:\users\usuario\desktop\recuperatorio  partcial 1\color.h
+
+1593989679 source:c:\users\usuario\desktop\recuperatorio  partcial 1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+
+1592878406 c:\users\usuario\desktop\recuperatorio  partcial 1\tipo.h
+
+1592945055 c:\users\usuario\desktop\recuperatorio  partcial 1\servicio.h
+
+1593026749 c:\users\usuario\desktop\recuperatorio  partcial 1\mascota.h
+
+1593015842 c:\users\usuario\desktop\recuperatorio  partcial 1\trabajo.h
+	"fecha.h"
+
+1590442026 c:\users\usuario\desktop\recuperatorio  partcial 1\fecha.h
+
+1593027827 c:\users\usuario\desktop\recuperatorio  partcial 1\informes.h
+
+1594046892 source:c:\users\usuario\desktop\recuperatorio  partcial 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+	"dataWereHouse.h"
+
+1593022586 c:\users\usuario\desktop\recuperatorio  partcial 1\datawerehouse.h
+
+1594045782 source:c:\users\usuario\desktop\recuperatorio  partcial 1\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+
+1592945055 source:c:\users\usuario\desktop\recuperatorio  partcial 1\servicio.c
+	"servicio.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1594045782 source:c:\users\usuario\desktop\recuperatorio  partcial 1\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1593015888 source:c:\users\usuario\desktop\recuperatorio  partcial 1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+	"servicio.h"
+	"fecha.h"
+	"trabajo.h"
+
+1592937663 source:c:\users\usuario\desktop\recuperatorio  partcial 1\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592937538 source:c:\users\usuario\desktop\aaaaaa\cliente.c
+	"cliente.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592864848 c:\users\usuario\desktop\aaaaaa\cliente.h
+
+1594003867 c:\users\usuario\desktop\aaaaaa\validaciones.h
+
+1594045642 source:c:\users\usuario\desktop\aaaaaa\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1592864848 c:\users\usuario\desktop\aaaaaa\color.h
+
+1594061159 source:c:\users\usuario\desktop\aaaaaa\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+
+1592878406 c:\users\usuario\desktop\aaaaaa\tipo.h
+
+1592945055 c:\users\usuario\desktop\aaaaaa\servicio.h
+
+1594061663 c:\users\usuario\desktop\aaaaaa\mascota.h
+
+1594061450 c:\users\usuario\desktop\aaaaaa\trabajo.h
+	"fecha.h"
+
+1590442026 c:\users\usuario\desktop\aaaaaa\fecha.h
+
+1594061239 c:\users\usuario\desktop\aaaaaa\informes.h
+
+1594061685 source:c:\users\usuario\desktop\aaaaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+	"dataWereHouse.h"
+
+1594060332 c:\users\usuario\desktop\aaaaaa\datawerehouse.h
+
+1594062024 source:c:\users\usuario\desktop\aaaaaa\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+
+1592945055 source:c:\users\usuario\desktop\aaaaaa\servicio.c
+	"servicio.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1594045782 source:c:\users\usuario\desktop\aaaaaa\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1594061433 source:c:\users\usuario\desktop\aaaaaa\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+	"servicio.h"
+	"fecha.h"
+	"trabajo.h"
+
+1592937663 source:c:\users\usuario\desktop\aaaaaa\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592937538 source:c:\users\usuario\desktop\a2 actualizando\cliente.c
+	"cliente.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592864848 c:\users\usuario\desktop\a2 actualizando\cliente.h
+
+1594003867 c:\users\usuario\desktop\a2 actualizando\validaciones.h
+
+1594045642 source:c:\users\usuario\desktop\a2 actualizando\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1592864848 c:\users\usuario\desktop\a2 actualizando\color.h
+
+1594061159 source:c:\users\usuario\desktop\a2 actualizando\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+
+1592878406 c:\users\usuario\desktop\a2 actualizando\tipo.h
+
+1592945055 c:\users\usuario\desktop\a2 actualizando\servicio.h
+
+1594062336 c:\users\usuario\desktop\a2 actualizando\mascota.h
+
+1594061450 c:\users\usuario\desktop\a2 actualizando\trabajo.h
+	"fecha.h"
+
+1590442026 c:\users\usuario\desktop\a2 actualizando\fecha.h
+
+1594061239 c:\users\usuario\desktop\a2 actualizando\informes.h
+
+1594062432 source:c:\users\usuario\desktop\a2 actualizando\main.c
+	"medida.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+	"dataWereHouse.h"
+
+1594062105 c:\users\usuario\desktop\a2 actualizando\datawerehouse.h
+
+1594062414 source:c:\users\usuario\desktop\a2 actualizando\mascota.c
+	"medida.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+
+1592945055 source:c:\users\usuario\desktop\a2 actualizando\servicio.c
+	"servicio.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1594045782 source:c:\users\usuario\desktop\a2 actualizando\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1594062450 source:c:\users\usuario\desktop\a2 actualizando\trabajo.c
+	"medida.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+	"servicio.h"
+	"fecha.h"
+	"trabajo.h"
+
+1592937663 source:c:\users\usuario\desktop\a2 actualizando\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1594062336 source:c:\users\usuario\desktop\a2 actualizando\medida.c
+	"medida.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1594062336 c:\users\usuario\desktop\a2 actualizando\medida.h
+
+1592937538 source:c:\users\usuario\desktop\a2 actualizando faccinado\cliente.c
+	"cliente.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592864848 c:\users\usuario\desktop\a2 actualizando faccinado\cliente.h
+
+1594003867 c:\users\usuario\desktop\a2 actualizando faccinado\validaciones.h
+
+1594045642 source:c:\users\usuario\desktop\a2 actualizando faccinado\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1592864848 c:\users\usuario\desktop\a2 actualizando faccinado\color.h
+
+1594081696 source:c:\users\usuario\desktop\a2 actualizando faccinado\informes.c
+	"medida.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+
+1594062336 c:\users\usuario\desktop\a2 actualizando faccinado\medida.h
+
+1592878406 c:\users\usuario\desktop\a2 actualizando faccinado\tipo.h
+
+1592945055 c:\users\usuario\desktop\a2 actualizando faccinado\servicio.h
+
+1594062336 c:\users\usuario\desktop\a2 actualizando faccinado\mascota.h
+
+1594061450 c:\users\usuario\desktop\a2 actualizando faccinado\trabajo.h
+	"fecha.h"
+
+1590442026 c:\users\usuario\desktop\a2 actualizando faccinado\fecha.h
+
+1594081841 c:\users\usuario\desktop\a2 actualizando faccinado\informes.h
+
+1594081702 source:c:\users\usuario\desktop\a2 actualizando faccinado\main.c
+	"medida.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"cliente.h"
+	"mascota.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+	"dataWereHouse.h"
+
+1594079307 c:\users\usuario\desktop\a2 actualizando faccinado\datawerehouse.h
+
+1594065517 source:c:\users\usuario\desktop\a2 actualizando faccinado\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"medida.h"
+	"mascota.h"
+
+1594076014 source:c:\users\usuario\desktop\a2 actualizando faccinado\medida.c
+	"medida.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1592945055 source:c:\users\usuario\desktop\a2 actualizando faccinado\servicio.c
+	"servicio.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1594045782 source:c:\users\usuario\desktop\a2 actualizando faccinado\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+
+1594062450 source:c:\users\usuario\desktop\a2 actualizando faccinado\trabajo.c
+	"medida.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"validaciones.h"
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+	"mascota.h"
+	"servicio.h"
+	"fecha.h"
+	"trabajo.h"
+
+1592937663 source:c:\users\usuario\desktop\a2 actualizando faccinado\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
